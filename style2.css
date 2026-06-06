@@ -363,7 +363,7 @@ textarea {
 
 
 
-
+/* //// */
 
 
 
@@ -531,7 +531,22 @@ textarea {
         padding: 1.5rem ;   
         text-align: center;
     }
+
+    .head-2{
+        font-size: 4rem;
+        width: 40rem;
+        text-align: center;
+
+    }
+
+    .quote2{
+        font-size: 2rem;
+        max-width: 43rem;
+
+    }
 }
+
+
 
 
 @media (max-width: 450px) {
@@ -541,6 +556,17 @@ textarea {
 
     .top-contact {
         font-size: 2.5rem;
+    }
+
+    .head-2{
+        font-size: 3rem;
+        width: 37rem;
+       
+    }
+
+    .quote2{
+        font-size:1.5rem ;
+        max-width: 32rem;
     }
 }
 
@@ -555,14 +581,14 @@ textarea {
 
 
     h1 {
-        font-size: 3.4rem;
+        font-size: 3rem;
         text-align: center;
         max-width: 28rem;
     }
 
  
     .quote-resp{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         text-align: center;
     }
 
